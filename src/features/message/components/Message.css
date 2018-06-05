@@ -1,0 +1,28 @@
+.container {
+    position: fixed;
+    top: 0;
+    right: 1em;
+    width: 16em;
+    z-index: 1000000;
+}
+
+.message {
+    position: relative;
+    width: 100%;
+    border-radius: .5em;
+    background-color: white;
+    padding: .5em;
+    margin: .2em;
+}
+
+.info {
+    border: solid green 2px;
+}
+
+.error {
+    border: solid red 2px;
+}
+
+.invisible {
+    display: none;
+}

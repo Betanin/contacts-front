@@ -1,0 +1,14 @@
+.container {
+    width: 80%;
+    min-width: 30em;
+    max-width: 60em;
+    height: calc(100vh);
+    margin: auto;
+}
+
+.addButton {
+    z-index: 10;
+    position: fixed;
+    right: calc(10vw - 28px);
+    bottom: 1em;
+}

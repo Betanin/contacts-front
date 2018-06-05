@@ -1,0 +1,13 @@
+const INIT = 'LOGIN/INIT';
+const LOGIN = 'LOGIN/LOGIN';
+const SIGNUP = 'LOGIN/SIGNUP';
+const RECOVER_SESSION = 'LOGIN/RECOVER_SESSION';
+const INIT_SESSION = 'LOGIN/INIT_SESSION';
+
+export default {
+    INIT,
+    LOGIN,
+    SIGNUP,
+    RECOVER_SESSION,
+    INIT_SESSION
+}
